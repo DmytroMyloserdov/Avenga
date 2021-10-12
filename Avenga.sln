@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzasTrouble", "PizzasTrouble\PizzasTrouble.csproj", "{F3FF81CE-42D8-46FE-8E92-FA1AD5EA42E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring", "Refactoring\Refactoring.csproj", "{827AA951-DB4A-4C9B-B273-FE2D888EE10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FF81CE-42D8-46FE-8E92-FA1AD5EA42E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FF81CE-42D8-46FE-8E92-FA1AD5EA42E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FF81CE-42D8-46FE-8E92-FA1AD5EA42E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FF81CE-42D8-46FE-8E92-FA1AD5EA42E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827AA951-DB4A-4C9B-B273-FE2D888EE10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827AA951-DB4A-4C9B-B273-FE2D888EE10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827AA951-DB4A-4C9B-B273-FE2D888EE10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827AA951-DB4A-4C9B-B273-FE2D888EE10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985A7F6D-18E2-43F8-A723-17D4B926A7E1}
+	EndGlobalSection
+EndGlobal
